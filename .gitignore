@@ -1,1 +1,7 @@
 .env
+tugas.dSYM
+even-or-odds.dSYM/
+tugas
+even-or-odds
+.vscode/
+.DS_Store
